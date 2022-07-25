@@ -1,16 +1,9 @@
-# 🚧 README em construção 🚧
+# Projeto Mysql One For All
 
-<!-- Olá, Tryber!
+# Contexto
+Nesse terceiro projeto do módulo de Back-End da Trybe, o desafio era ao receber uma planilha com dados não normalizados, fazer a normalização até a terceira forma normal, criando um banco de dados e estabelecendo os relacionamentos entre as tabelas criadas e fazer consultas através de querys.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Técnologias usadas
 
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+Back-end:
+> Desenvolvido usando: Docker, MYSQL
