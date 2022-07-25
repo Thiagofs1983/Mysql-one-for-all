@@ -7,3 +7,6 @@ Nesse terceiro projeto do módulo de Back-End da Trybe, o desafio era ao receber
 
 Back-end:
 > Desenvolvido usando: Docker, MYSQL
+
+### Diagrama EER após a tabela ser normalizada
+![Diagrama EER](/Diagrama-EER.png)
